@@ -13,6 +13,8 @@ $(function()
 ```
 <div id="content"></div>
 ```
+### 截图
+![输入图片说明](image.png)
 ### 演示
 [演示地址](https://geh3408.top/sdeditor)
 ### 联系方式
